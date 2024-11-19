@@ -2,8 +2,8 @@
 <h3 align="center">I am a computer software student</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammdtahaabdinasab&theme=horizon&mode=weekly" alt="GitHub Streak" /></a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammdtahaabdinasab&layout=compact" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammdtahaabdinasab&theme=horizon&mode=weekly" alt="GitHub Streak" /></a><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammdtahaabdinasab&layout=compact&theme=dark" />
 </p>
 
 <h3 align="left">I am trying to learn these languages:</h3>
