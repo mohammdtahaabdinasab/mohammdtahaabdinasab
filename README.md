@@ -2,7 +2,7 @@
 <h3 align="center">I am a computer software student</h3>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammdtahaabdinasab&theme=horizon&mode=weekly" alt="GitHub Streak" /></a><br>
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mohammdtahaabdinasab&theme=dark&mode=weekly" alt="GitHub Streak" /></a>br>
   <img src="https://github-profile-trophy.vercel.app/?username=mohammdtahaabdinasab&column=8"/><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammdtahaabdinasab&layout=compact&theme=dark"/>
 </p>
